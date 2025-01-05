@@ -11,7 +11,6 @@ Prerequisites
 Python 3.7+.
 Install required Python libraries by running:
 bash
-Копіювати код
 pip install yt-dlp python-telegram-bot
 Setting Up
 Clone this repository:
