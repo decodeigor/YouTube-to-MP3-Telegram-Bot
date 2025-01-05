@@ -17,7 +17,6 @@ Setting Up
 Clone this repository:
 
 bash
-Копіювати код
 git clone https://github.com/decodeigor/youtube-to-mp3-bot.git
 cd youtube-to-mp3-bot
 Create a new bot on Telegram and get the API token by chatting with BotFather.
@@ -25,12 +24,10 @@ Create a new bot on Telegram and get the API token by chatting with BotFather.
 Replace the TOKEN variable in bot.py with your bot’s API token:
 
 python
-Копіювати код
 TOKEN = 'your-telegram-bot-token'
 Run the bot:
 
 bash
-Копіювати код
 python bot.py
 The bot should now be running, and you can start sending YouTube links to get MP3 files!
 
@@ -50,3 +47,4 @@ Created by @igoraa001.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
