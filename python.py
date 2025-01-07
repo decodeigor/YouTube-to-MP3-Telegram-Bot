@@ -3,7 +3,7 @@ import yt_dlp
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackContext, filters, CallbackQueryHandler
 
-TOKEN = '7802435336:AAGwGJfCW7TNVDsdbROZYufBdZpSBkdv1pA'
+TOKEN = ''
 
 async def start(update: Update, context: CallbackContext):
     keyboard = [
